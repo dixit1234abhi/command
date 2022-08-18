@@ -1,0 +1,9 @@
+for making a new folder from command promt 
+mkdir
+
+
+for making a file 
+touch filename
+
+for moving a one folder to another folder 
+cd folder name
